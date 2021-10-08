@@ -1,0 +1,682 @@
+{
+  "profile" : [
+    {
+  "public_identifier": "ianbudikur",
+  "profile_pic_url": "https://media-exp1.licdn.com/dms/image/C4D03AQHnH0-p0V0hBA/profile-displayphoto-shrink_200_200/0/1517238410557?e=1639008000&v=beta&t=8Dj73rQb17U1RA-5nKT4cZNL4tWNkqZuuKgseiVMHyg",
+  "background_cover_image_url": "https://static-exp1.licdn.com/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+  "first_name": "Ian Budi",
+  "last_name": "Kurniawan",
+  "full_name": "Ian Budi Kurniawan",
+  "occupation": "Senior Project Manager at Alterra Academy",
+  "headline": "Senior Project Manager at Alterra Academy",
+  "summary": "Currently interested on validating products & values to give more impact in the IT industry.",
+  "country": "ID",
+  "country_full_name": "Indonesia",
+  "city": "Jakarta Selatan",
+  "state": "Jakarta Raya",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2021
+      },
+      "ends_at": null,
+      "company": "Alterra Academy",
+      "company_linkedin_profile_url": "https://id.linkedin.com/company/alterraacademy",
+      "title": "Senior Project Manager",
+      "description": null,
+      "location": "Jakarta, Indonesia",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C510BAQH1P84fsjqthg/company-logo_100_100/0/1582282791321?e=1642032000&v=beta&t=Zvy5AssrZoHDj5Px0KTRUovTFNJelm9dHBcXMS54RF8"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2021
+      },
+      "company": "Alterra",
+      "company_linkedin_profile_url": "https://id.linkedin.com/company/alterraindonesia",
+      "title": "Innovation Strategist",
+      "description": "Exploring and executing new initiatives right from scratch.",
+      "location": "Greater Jakarta Area, Indonesia",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4E0BAQHPUzPOhMVQaQ/company-logo_100_100/0/1574840123022?e=1642032000&v=beta&t=BvGMmW1kBysndxche0DlV9XGzQ_En5edYcXwRZ3kpHQ"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2019
+      },
+      "company": "Alterra",
+      "company_linkedin_profile_url": "https://id.linkedin.com/company/alterraindonesia",
+      "title": "Corporate Strategy Analyst",
+      "description": "- Create and verify financial projections for key initiatives- Generate comprehensive business insights based on product analytics and market insights- Create supporting SOP and documentations for managing key initiatives",
+      "location": "Greater Jakarta Area, Indonesia",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4E0BAQHPUzPOhMVQaQ/company-logo_100_100/0/1574840123022?e=1642032000&v=beta&t=BvGMmW1kBysndxche0DlV9XGzQ_En5edYcXwRZ3kpHQ"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2018
+      },
+      "company": "Alterra",
+      "company_linkedin_profile_url": "https://id.linkedin.com/company/alterraindonesia",
+      "title": "Business Analyst",
+      "description": "(Before was sepulsa.com)- Define market size, strategy, and behavior, then verify directly to customers- Implement data visualization & business intelligence tools to generate business insights- Running agile product development as a product owner",
+      "location": "Greater Jakarta Area, Indonesia",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4E0BAQHPUzPOhMVQaQ/company-logo_100_100/0/1574840123022?e=1642032000&v=beta&t=BvGMmW1kBysndxche0DlV9XGzQ_En5edYcXwRZ3kpHQ"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2016
+      },
+      "company": "Universitas Ciputra Surabaya",
+      "company_linkedin_profile_url": "https://id.linkedin.com/company/universitas-ciputra-surabaya",
+      "title": "Lecturer Assistant",
+      "description": "Information and Multimedia Technology- Web Technology 1 Class- Object Oriented Programming Class",
+      "location": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C510BAQFfmAZQYqQjnQ/company-logo_100_100/0/1562834292686?e=1642032000&v=beta&t=GiEtHcfS9OrqGulazu2T-_YrZtKjRoTEKd3utTOwBKM"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2016
+      },
+      "company": "TwisCode Pte. Ltd.",
+      "company_linkedin_profile_url": "https://id.linkedin.com/company/twiscode",
+      "title": "Android Developer",
+      "description": "Working on a food delivery app using Android Studio, Firebase, and Google Cloud Platform.",
+      "location": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQHj22HljLgxGA/company-logo_100_100/0/1603859195661?e=1642032000&v=beta&t=NDAXii4u2omxm99zPODQdxU-22yzYbO4_qnZBpL9srM"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2017
+      },
+      "field_of_study": "Information and Multimedia Technology",
+      "degree_name": "Sarjana Komputer (S.Kom)",
+      "school": "Universitas Ciputra Surabaya",
+      "description": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C510BAQFfmAZQYqQjnQ/company-logo_100_100/0/1562834292686?e=1642032000&v=beta&t=GiEtHcfS9OrqGulazu2T-_YrZtKjRoTEKd3utTOwBKM"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2013
+      },
+      "field_of_study": "Physical Sciences",
+      "degree_name": "High School",
+      "school": "Frateran Senior High School",
+      "description": null,
+      "logo_url": null
+    }
+  ],
+  "languages": [
+    "English",
+    "Bahasa Indonesia"
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [
+    {
+      "title": "2nd Winner – Startup Pitching Contest",
+      "issuer": "Co-Asset & Universitas Ciputra Surabaya",
+      "issued_on": {
+        "day": 1,
+        "month": 7,
+        "year": 2016
+      },
+      "description": null
+    },
+    {
+      "title": "The Innovative Team – Entrepreneurship 4",
+      "issuer": "Universitas Ciputra Surabaya",
+      "issued_on": {
+        "day": 1,
+        "month": 6,
+        "year": 2016
+      },
+      "description": null
+    },
+    {
+      "title": "1st Winner – Technology Startup Bootcamp",
+      "issuer": "Business Incubator Universitas Ciputra Surabaya",
+      "issued_on": {
+        "day": 1,
+        "month": 4,
+        "year": 2016
+      },
+      "description": null
+    }
+  ],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [
+    {
+      "name": "Indonesia Android Kejar",
+      "number": "-"
+    }
+  ],
+  "accomplishment_projects": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2016
+      },
+      "ends_at": null,
+      "title": "Vacca",
+      "description": "Aplikasi mobile yang membantu ibu dalam mengawasi kesehatan anak, khususnya untuk informasi dan jadwal imunisasi.",
+      "url": "http://vaccamobile.com"
+    }
+  ],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 440,
+  "people_also_viewed": [
+    {
+      "link": "https://id.linkedin.com/in/bianca-anatta",
+      "name": "Bianca Anatta Siregar",
+      "summary": "Project Manager at Alterra",
+      "location": "Area DKI Jakarta"
+    },
+    {
+      "link": "https://id.linkedin.com/in/adityas-kemal-7a88b09a",
+      "name": "Adityas Kemal",
+      "summary": "Head of Product Non PDAM at Bima Sakti Alterra",
+      "location": "Surabaya"
+    },
+    {
+      "link": "https://id.linkedin.com/in/irendanovia",
+      "name": "Novia Irenda",
+      "summary": "Finance Accounting Manager at Alterra",
+      "location": "Jawa Barat, Indonesia"
+    },
+    {
+      "link": "https://id.linkedin.com/in/bayusetiawan21",
+      "name": "Bayu Setiawan",
+      "summary": "Simplicity is the ultimate sophistication",
+      "location": "Banten, Indonesia"
+    },
+    {
+      "link": "https://id.linkedin.com/in/dimassyahputra",
+      "name": "Dimas Syahputra",
+      "summary": "Software Developer at CODE.ID",
+      "location": "Jakarta"
+    },
+    {
+      "link": "https://id.linkedin.com/in/haura-tia-452654150",
+      "name": "Haura Tia",
+      "summary": "--",
+      "location": "Indonesia"
+    },
+    {
+      "link": "https://id.linkedin.com/in/krianbayuadhinata",
+      "name": "Krian Bayu Adhinata",
+      "summary": "Data Scientist",
+      "location": "Jakarta"
+    },
+    {
+      "link": "https://id.linkedin.com/in/na-ns",
+      "name": "Nur Anisha NS",
+      "summary": "Customer Experience Agent - Dedicated Brand di Intrepid Group Asia",
+      "location": "Jakarta"
+    },
+    {
+      "link": "https://id.linkedin.com/in/agmelya-fatmasari-81814120a",
+      "name": "Agmelya Fatmasari",
+      "summary": "Graphic Designer",
+      "location": "Depok"
+    },
+    {
+      "link": "https://id.linkedin.com/in/putri-tasya-fabyolla-ab89b5219",
+      "name": "Putri Tasya Fabyolla",
+      "summary": "Human Resources Officer at Alterra Indonesia",
+      "location": "Jakarta Selatan"
+    },
+    {
+      "link": "https://id.linkedin.com/in/yonathan-firdaus-412511163",
+      "name": "yonathan firdaus",
+      "summary": "Data Analyst at PT Sarana Karya Digital",
+      "location": "Jawa Barat, Indonesia"
+    },
+    {
+      "link": "https://id.linkedin.com/in/nino-kusuma-1340915b",
+      "name": "Nino Kusuma",
+      "summary": "Sr. Quality Analyst at OVO",
+      "location": "Jakarta"
+    },
+    {
+      "link": "https://id.linkedin.com/in/putri-octavia-sitompul",
+      "name": "Putri Octavia",
+      "summary": "Student at Institut Teknologi Del",
+      "location": "Kota Pematang Siantar"
+    },
+    {
+      "link": "https://id.linkedin.com/in/naufal-adrian",
+      "name": "Naufal Adrian",
+      "summary": "Merchandiser Executive at Intrepid Group Asia",
+      "location": "Jakarta"
+    },
+    {
+      "link": "https://id.linkedin.com/in/monika-yulia-21247220b",
+      "name": "Monika Yulia",
+      "summary": "Operator Produksi di PT.OMRON MANUFACTURING OF INDONESIA",
+      "location": "Bekasi"
+    },
+    {
+      "link": "https://id.linkedin.com/in/adilahaulia",
+      "name": "Adilah Aulia Rahma",
+      "summary": ".",
+      "location": "Bekasi"
+    },
+    {
+      "link": "https://id.linkedin.com/in/putri-w-80b740155",
+      "name": "Putri W.",
+      "summary": "Business Development Manager",
+      "location": "Indonesia"
+    },
+    {
+      "link": "https://id.linkedin.com/in/irene-puspita-37bab0a9",
+      "name": "Irene Puspita",
+      "summary": "Recruitment Officer di PT Paramount Enterprise International",
+      "location": "Indonesia"
+    },
+    {
+      "link": "https://id.linkedin.com/in/windy-daneswari-67b41b182",
+      "name": "Windy daneswari",
+      "summary": "Senior Graphic Designer at Intrepid Group Asia",
+      "location": "Area DKI Jakarta"
+    },
+    {
+      "link": "https://id.linkedin.com/in/arifki-ariyus-a5a14a177",
+      "name": "Arifki Ariyus",
+      "summary": "Commercial Support Manager at Sepulsa Teknologi Indonesia",
+      "location": "Jawa Barat, Indonesia"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "Sebagai bagian dari Kampus Merdeka, hari ini tim Alterra Academy (ALTA) bertemu secara virtual dengan Mas Menteri dan berdiskusi tentang program…",
+      "link": "https://www.linkedin.com/signup/cold-join",
+      "activity_status": "Disukai oleh Ian Budi Kurniawan"
+    },
+    {
+      "title": "and don't miss the opportunity to learn more about Business Strategic from Daniel Armanto , ex Koprol, now CTO of Investree at Breakthrough 2021 (…",
+      "link": "https://www.linkedin.com/signup/cold-join",
+      "activity_status": "Disukai oleh Ian Budi Kurniawan"
+    },
+    {
+      "title": "Calling out all Indonesia tech leaders!Grow your connection and network with Indonesia’s top tech leads on Breakthrough 2021.📅  2-3 June 2021…",
+      "link": "https://www.linkedin.com/signup/cold-join",
+      "activity_status": "Disukai oleh Ian Budi Kurniawan"
+    }
+  ],
+  "similarly_named_profiles": [],
+  "articles": []
+},
+ {
+   "accomplishment_courses":[
+
+   ],
+   "accomplishment_honors_awards":[
+      {
+         "description":"Nanyang Scholarship recognizes students who excel academically, demonstrate strong leadership potential, and possess outstanding co-curricular records.\n",
+         "issued_on":{
+            "day":null,
+            "month":null,
+            "year":2015
+         },
+         "issuer":"Nanyang Technological University",
+         "title":"NANYANG Scholarship"
+      },
+      {
+         "description":"Awarded to students with exceptional results in Physics and Mathematics",
+         "issued_on":{
+            "day":null,
+            "month":null,
+            "year":2015
+         },
+         "issuer":"Defence Science & Technology Agency",
+         "title":"Young Defence Scientist Programme (YDSP) Academic Award"
+      },
+      {
+         "description":"An annual competition to encourage the study and appreciation of Physics as well as highlight Physics talent.",
+         "issued_on":{
+            "day":null,
+            "month":null,
+            "year":2012
+         },
+         "issuer":"Institute of Physics Singapore",
+         "title":"Singapore Junior Physics Olympiad (Main Category) Honourable Mention"
+      },
+      {
+         "description":"Certificate awarded to student who topped the cohort in all aspects of Science.",
+         "issued_on":{
+            "day":null,
+            "month":null,
+            "year":2010
+         },
+         "issuer":"Xinmin Secondary School",
+         "title":"Certificate of Excellence - Top in Science"
+      },
+      {
+         "description":null,
+         "issued_on":{
+            "day":1,
+            "month":9,
+            "year":2018
+         },
+         "issuer":"Nanyang Technological University",
+         "title":"Dean's List FY17/18"
+      },
+      {
+         "description":"This competition requires students to construct a model car powered on chemicals. \nThe car which moves closest to the set distance (at least 10m) will win the competition.\nStudents will need to apply scientific principles in order to design the car and find out how much chemicals to use for each set distance.",
+         "issued_on":{
+            "day":null,
+            "month":null,
+            "year":2011
+         },
+         "issuer":"Ngee Ann Polytechnic",
+         "title":"Ngee Ann Polytechnic Chemical Powered Car Competition Champion"
+      },
+      {
+         "description":"https://devpost.com/software/affilichain\n\nDisrupting a USD$6 billion affiliate marketing industry by cutting middlemen and replacing them with a BlockChain-based payment platform.\n\n- B2B distributed and permissions database between affiliates and merchants for consistency in records\n\n- reduce processing and verification time of transactions\n\n- fraud detection (e.g. Resellers)",
+         "issued_on":{
+            "day":null,
+            "month":10,
+            "year":2017
+         },
+         "issuer":"iNTUition + BlackRock",
+         "title":"iNTUition 2017 Hackathon - Best Financial Hack"
+      }
+   ],
+   "accomplishment_organisations":[
+
+   ],
+   "accomplishment_patents":[
+
+   ],
+   "accomplishment_projects":[
+      {
+         "description":"For Course CZ1003 - Introduction to Computational Thinking\n\nBuilt a food (NTU's McDonald) pre-ordering Telegram bot that incorporates Payment using Telegram API. Topped the cohort of more than 100 teams.\nLanguage used: Python, MySQL\nServer used: Heroku, Raspberry Pi3\n\nAdrian Goh JW (Me) - Software Developer\nLoh Zhen Guang - Product Testing\nZachary Tan, Er Jia Chin - Documentation",
+         "ends_at":{
+            "day":null,
+            "month":10,
+            "year":2017
+         },
+         "starts_at":{
+            "day":null,
+            "month":8,
+            "year":2017
+         },
+         "title":"MaiDanLiao - NTU McDonald's Pre-ordering Telegram Bot",
+         "url":null
+      }
+   ],
+   "accomplishment_publications":[
+
+   ],
+   "accomplishment_test_scores":[
+      {
+         "date_on":{
+            "day":null,
+            "month":9,
+            "year":2012
+         },
+         "description":"Higher Mother Tongue (A2)\nElementary Mathematics (A1)\nAdvanced Mathematics (A1)\nPhysics (A1)\nChemistry (A1)\nCombined Humanities (Social Studies and Geography) (A1)",
+         "name":"GCSE O Level",
+         "score":"3"
+      },
+      {
+         "date_on":{
+            "day":null,
+            "month":11,
+            "year":2014
+         },
+         "description":"H1 General Paper (C)\nH2 Mathematics (A)\nH2 Chemistry (A)\nH2 Physics (A)\nH2 Economics (A)\nH1 General Paper (A)",
+         "name":"GCE A Level",
+         "score":"87.5/90"
+      }
+   ],
+   "certifications":[
+      {
+         "authority":"SMU - Singapore Management University",
+         "display_source":null,
+         "ends_at":null,
+         "license_number":null,
+         "name":"Citi-SMU Financial Literacy Programme for Young Adults",
+         "starts_at":{
+            "day":null,
+            "month":6,
+            "year":2013
+         },
+         "url":null
+      },
+      {
+         "authority":"QLC",
+         "display_source":"google.com",
+         "ends_at":null,
+         "license_number":null,
+         "name":"Business Development",
+         "starts_at":{
+            "day":null,
+            "month":12,
+            "year":2017
+         },
+         "url":"https://docs.google.com/document/d/1E-gm2qUkZtw8MmCj3BAojdBvdsqSMaRgnwRyKacIjmM/edit?usp=drivesdk."
+      }
+   ],
+   "city":null,
+   "country":"sg",
+   "country_full_name":"Singapore",
+   "education":[
+      {
+         "degree_name":"O Level",
+         "description":null,
+         "ends_at":null,
+         "field_of_study":null,
+         "school":[
+
+         ],
+         "starts_at":null
+      },
+      {
+         "degree_name":"High School",
+         "description":null,
+         "ends_at":null,
+         "field_of_study":"Physics, Chemistry, Mathematics, Economics",
+         "school":[
+
+         ],
+         "starts_at":null
+      },
+      {
+         "degree_name":"Bachelor\u2019s Degree",
+         "description":"NANYANG Scholarship\niNTUition 2017 Hackathon - Best Financial Award (https://devpost.com/software/affilichain)",
+         "ends_at":null,
+         "field_of_study":"Computer Science with Minor in Business",
+         "school":"Nanyang Technological University",
+         "starts_at":null
+      },
+      {
+         "degree_name":"PSLE",
+         "description":null,
+         "ends_at":null,
+         "field_of_study":null,
+         "school":[
+
+         ],
+         "starts_at":null
+      }
+   ],
+   "experiences":[
+      {
+         "company":"PetsLobang",
+         "company_linkedin_profile_url":null,
+         "company_urn":"urn:li:fsd_company:13391052",
+         "description":"Sell pet food",
+         "ends_at":{
+            "day":null,
+            "month":1,
+            "year":2018
+         },
+         "location":"Singapore",
+         "starts_at":{
+            "day":null,
+            "month":6,
+            "year":2017
+         },
+         "title":"Owner"
+      },
+      {
+         "company":"NodeFlair",
+         "company_linkedin_profile_url":"https://www.linkedin.com/company/nodeflair/",
+         "company_urn":"urn:li:fsd_company:13705849",
+         "description":"Firefighting",
+         "ends_at":null,
+         "location":"Singapore",
+         "starts_at":{
+            "day":null,
+            "month":3,
+            "year":2018
+         },
+         "title":"Co-Founder"
+      },
+      {
+         "company":"ShopBack",
+         "company_linkedin_profile_url":"https://www.linkedin.com/company/shopback-com/",
+         "company_urn":"urn:li:fsd_company:3804922",
+         "description":"Tech - Database:\n1) Financial Due Diligence for Fund Raising\n2) Built financial DB and automated monthly generation of financial figures - Reduce time taken to < 3 days\n3) Revenue provisioning of all countries and top merchants with Data Team\n\nTech Stack: Python, MySQL\n\nOthers:\n1) Led Sensitive Analysis project on Payment and presented to CEO and management\n2) Prepared a Quarterly Investor Update on new partnerships, product development marketing success\n\nTools used: Microsoft Excel VBA",
+         "ends_at":{
+            "day":null,
+            "month":8,
+            "year":2017
+         },
+         "location":"77 Ayer Rajah Crescent #03-23, 139954",
+         "starts_at":{
+            "day":null,
+            "month":1,
+            "year":2017
+         },
+         "title":"Business Process Management"
+      },
+      {
+         "company":"ShopBack",
+         "company_linkedin_profile_url":"https://www.linkedin.com/company/shopback-com/",
+         "company_urn":"urn:li:fsd_company:3804922",
+         "description":"Qualitative Research:\n1) Conducted >20 User Testing to understand app's usability\n2) Head dogfooding for app's V2\n3) Gathered insights by interacting with ShopBack's Facebook community\n\nQuantitative Research:\n1) Performance comparison of the app across different versions using MySQL\n\nEmpowering stakeholders:\n1) Revamped data collection with Engineering Team  to empower Marketing with in-house analytical tools by defining the parameters of every app actions (clicks, scrolls etc.)\n2) Educated APAC teams by creating lessons on the in-house tools created \n3) Presented analysis of app's performance to APAC teams\n\nTechnical:\n1) Live configuration of the app to integrate new merchants\n2) Created links for customized app's onboarding flows\n\nMarket Research:\n1) Explore product opportunities by doing analysis on the different verticals of e-commerce markets\n\nTech stack: MySQL, MongoDB\nTools used: Confluence, JIRA",
+         "ends_at":{
+            "day":null,
+            "month":8,
+            "year":2018
+         },
+         "location":"Singapore",
+         "starts_at":{
+            "day":null,
+            "month":5,
+            "year":2018
+         },
+         "title":"Product (Mobile)"
+      },
+      {
+         "company":"City Fellows Consortium",
+         "company_linkedin_profile_url":"https://www.linkedin.com/company/city-fellows-consortium/",
+         "company_urn":"urn:li:fsd_company:6642965",
+         "description":"The City Fellows Consortium is an innovation-centered private league for Los Angeles' top undergraduate engineering fellows, selected from the region\u2019s most elite universities. \n\n- interacting, learning and building new ties with top local innovation leaders and VC on a monthly basis",
+         "ends_at":{
+            "day":null,
+            "month":null,
+            "year":2018
+         },
+         "location":"Singapore",
+         "starts_at":{
+            "day":null,
+            "month":9,
+            "year":2016
+         },
+         "title":"Consortium Fellow"
+      }
+   ],
+   "first_name":"Adrian",
+   "headline":"Co-founder at NodeFlair | code() at where you love",
+   "languages":[
+      "Chinese",
+      "English"
+   ],
+   "last_name":"Goh Jun Wei",
+   "occupation":"Co-founder at NodeFlair | code() at where you love",
+   "profile_pic_url":"https://media-exp1.licdn.com/dms/image/C5103AQEIacaKtddOqg/profile-displayphoto-shrink_800_800/0?e=1603324800&v=beta&t=a5xQPRi2XqT9TaIo9k3V7IaJ8hgPLS0b_VLMaiLJhVk",
+   "public_identifier":"adriangohjw",
+   "skills":[
+      "Data Analysis",
+      "React.js",
+      "Leadership",
+      "Flask",
+      "Product Management",
+      "Ruby on Rails",
+      "Entrepreneurship",
+      "SQL",
+      "Python",
+      "Project Management",
+      "Java",
+      "Start-ups",
+      "Microsoft Excel"
+   ],
+   "state":null,
+   "summary":"www.nodeflair.com",
+   "volunteer_work":[
+
+   ]
+}
+    
+    ]
+  
+  
+}
